@@ -1,2 +1,2 @@
-# formation_spark
-Quelques fichiers pour la formation de septembre
+# velib
+Petites routines pour simuler un système type velib.
