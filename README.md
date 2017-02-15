@@ -1,2 +1,5 @@
-# velib
-Petites routines pour simuler un système type velib.
+# Velib
+Simulation of a city-bike system.
+
+Python scripts are here to generate logs.
+Scala to analyse them. 
