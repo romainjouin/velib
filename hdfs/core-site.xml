@@ -18,7 +18,7 @@
 <configuration>
 <property>
 <name>fs.default.name</name>
-<value>hdfs://193.70.43.207:8020</value>
+<value>hdfs://192.168.3.108:8020</value>
 </property>
 <property>
 <name>hadoop.proxyuser.httpfs.hosts</name>
