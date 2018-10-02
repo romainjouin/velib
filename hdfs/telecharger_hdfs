@@ -9,6 +9,12 @@ Voir la configuration
 	cd ./hadoop-2.6.4/etc/hadoop
 
 
+Vous devez créer les répertoires sur chaque machine
+
+	mkdir    /home/spark/hdfs-data/	
+	mkdir –p /home/spark/hdfs-data/nn
+	mkdir –p /home/spark/hdfs-data/dn
+
 
 
 
