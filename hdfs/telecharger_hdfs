@@ -11,9 +11,9 @@ Voir la configuration
 
 Vous devez créer les répertoires sur chaque machine
 
-	mkdir    /home/spark/hdfs-data/	
-	mkdir –p /home/spark/hdfs-data/nn
-	mkdir –p /home/spark/hdfs-data/dn
+	mkdir /home/spark/hdfs-data/	
+	mkdir /home/spark/hdfs-data/nn
+	mkdir /home/spark/hdfs-data/dn
 
 
 
