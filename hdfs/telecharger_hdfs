@@ -35,3 +35,7 @@ On peut supprimer core-site.xml et hdfs-site.xml pour juster copier / coller la 
 	vi core-site.xml 	puis copier le core-site.xml du github
 	vi hdfs-site.xml 	puis copier le hdfs-site.xml du github
 	
+
+Démarrer un démon : 
+	/hadoop-2.6.4/sbin/hadoop-daemon.sh start namenode
+	/hadoop-2.6.4/sbin/hadoop-daemon.sh start datanode
