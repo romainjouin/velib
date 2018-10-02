@@ -1,1 +1,19 @@
-curl -O http://mirrors.ircam.fr/pub/apache/hadoop/common/hadoop-2.6.4/hadoop-2.6.4.tar.gz
+Télécharger Hadoop
+
+	curl -O http://mirrors.ircam.fr/pub/apache/hadoop/common/hadoop-2.6.4/hadoop-2.6.4.tar.gz
+
+Dézipper
+	sudo tar xzf hadoop-2.6.4.tar.gz
+
+Voir la configuration
+	cd ./hadoop-2.6.4/etc/hadoop
+
+
+
+
+
+Quatre fichiers importants
+	core-site.xml	Information concernant tous les aspects d’Hadoop
+	hdfs-site.xml	Information concernant HDFS
+	masters		Liste des @ip pour les namenode secondaires
+	slaves		Liste des @ip pour les slaves
