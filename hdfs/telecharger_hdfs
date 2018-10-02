@@ -5,6 +5,9 @@ Télécharger Hadoop
 Dézipper
 	sudo tar -xvf hadoop-2.6.4.tar.gz
 
+Donner la main au user spark sur le répertoire hdfs : 
+	sudo chown -R spark ./hadoop-2.6.4
+
 Voir la configuration
 	cd ./hadoop-2.6.4/etc/hadoop
 
