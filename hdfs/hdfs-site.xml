@@ -18,11 +18,11 @@
 <configuration>
 <property>
 	<name>dfs.namenode.name.dir</name>
-	<value>file:///home/spark/hdfs/namenode</value>
+	<value>file:///home/spark/hdfs-data/nn</value>
 </property>
 <property>
 	<name>dfs.datanode.data.dir</name>
-	<value>file:///home/spark/hdfs/datanode</value>
+	<value>file:///home/spark/hdfs-data/dn</value>
 </property>
 <property>
 	<name>dfs.webhdfs.enabled</name>
