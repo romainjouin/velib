@@ -26,3 +26,12 @@ Quatre fichiers importants
 	hdfs-site.xml	Information concernant HDFS
 	masters		Liste des @ip pour les namenode secondaires
 	slaves		Liste des @ip pour les slaves
+
+
+On peut supprimer core-site.xml et hdfs-site.xml pour juster copier / coller la version du github : 
+	rm core-site.xml
+	rm hdfs-site.xml
+
+	vi core-site.xml 	puis copier le core-site.xml du github
+	vi hdfs-site.xml 	puis copier le hdfs-site.xml du github
+	
