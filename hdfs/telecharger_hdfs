@@ -3,7 +3,7 @@ Télécharger Hadoop
 	curl -O http://mirrors.ircam.fr/pub/apache/hadoop/common/hadoop-2.6.4/hadoop-2.6.4.tar.gz
 
 Dézipper
-	sudo tar xzf hadoop-2.6.4.tar.gz
+	sudo tar -xvf hadoop-2.6.4.tar.gz
 
 Voir la configuration
 	cd ./hadoop-2.6.4/etc/hadoop
